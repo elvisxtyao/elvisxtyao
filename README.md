@@ -1,4 +1,4 @@
-# Xiaotian Yao
+# Theo (Xiaotian) Yao
 
 **Machine Learning · Software Engineering · AI**
 
