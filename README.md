@@ -5,19 +5,19 @@
 I explore how neural networks learn and build reproducible software to evaluate them.
 Currently seeking MLE, SDE, and AI engineering roles.
 
-[LinkedIn](https://www.linkedin.com/in/xiaotian-yao/) · [LOTUS demo (access required)](https://github.com/elvisxtyao/LOTUS/blob/master/docs/project_showcase.md) · [Hebbian learning demo](https://github.com/elvisxtyao/neuroai-hebbian-vs-backprop-autoencoder/blob/main/project_demo.ipynb)
+[LinkedIn](https://www.linkedin.com/in/xiaotian-yao/) · [LOTUS quickstart (access required)](https://github.com/elvisxtyao/LOTUS/blob/master/docs/installation.md) · [Hebbian learning demo](https://github.com/elvisxtyao/neuroai-hebbian-vs-backprop-autoencoder/blob/main/project_demo.ipynb)
 
 ## Selected work
 
 ### [LOTUS — From single-cell research to model delivery](https://github.com/elvisxtyao/LOTUS)
 
-*Private repository: project, evidence, and demo links below require access.*
+*Private repository: project, evidence, and quickstart links below require access.*
 
 How can we model changing cell states when lineage labels are incomplete?
 LOTUS combines **identity/state representations and identity-locked dynamics**
 with an auditable path from data preparation to evaluation and CPU inference.
 
-**My engineering contribution**
+**Research and engineering**
 
 | Research workflow | Model delivery and operations |
 | :--- | :--- |
@@ -40,12 +40,12 @@ remain unverified.
 · [MLflow · OCI releases](https://github.com/elvisxtyao/LOTUS/blob/master/docs/t17_real_releases.md)
 · [AWS EC2/SSM · Prometheus/Grafana (synthetic workload)](https://github.com/elvisxtyao/LOTUS/blob/master/docs/cloud_cpu_deployment.md)
 
-**Explore →** [Three-minute walkthrough](https://github.com/elvisxtyao/LOTUS/blob/master/docs/project_showcase.md)
+**Explore →** [CPU quickstart](https://github.com/elvisxtyao/LOTUS/blob/master/docs/installation.md)
 · [Results and protocol](https://github.com/elvisxtyao/LOTUS/blob/master/docs/t08_test_results.md)
 · [Architecture](https://github.com/elvisxtyao/LOTUS/blob/master/docs/architecture.md)
 · [Current scope](https://github.com/elvisxtyao/LOTUS/blob/master/docs/project_status.md)
 
-*The walkthrough uses saved results; there is no live public service.*
+*The CPU quickstart uses a synthetic fixture; there is no live public service.*
 
 ### [Where Does Hebbian Learning Help?](https://github.com/elvisxtyao/neuroai-hebbian-vs-backprop-autoencoder)
 
